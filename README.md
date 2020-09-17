@@ -1,2 +1,2 @@
 # drupal-cmf-profile
-# cet profile d'installation est configuré pour des projets from scratch de drupal
+# ce profil d'installation est configuré pour créer des projets from scratch avec drupal
