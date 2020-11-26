@@ -2,7 +2,7 @@ name:  Cmf
 type: profile
 description: 'Construit un profil pour développer à partir du content management framework drupal'
 version: VERSION
-core: 8.x
+core_version_requirement: ^8 || ^9
 install:
   - block
   - dblog
