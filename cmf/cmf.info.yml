@@ -1,6 +1,6 @@
 name:  Cmf
 type: profile
-description: 'Construit un profil pour développer à partir du content management framework drupal'
+description: 'Configure une installation pour développer <from scratch> à partir du core de Drupal'
 version: VERSION
 core_version_requirement: ^8 || ^9
 install:
